@@ -1,3 +1,8 @@
 textoPruebaRama1
+<<<<<<< HEAD
 PruebaMaster1
 PruebaMaster2
+=======
+Prueba2
+
+>>>>>>> mikel_ruizdesamaniego_rama
